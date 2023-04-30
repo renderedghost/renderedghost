@@ -1,5 +1,3 @@
-> Enabling the world’s learners to advance bright ideas ✨ through better design
-
 # Hi there 👋 I'm Barry
 
 [Let's Connect](https://linktr.ee/barryprendergast)
