@@ -1,6 +1,8 @@
+> Enabling the world’s learners to advance bright ideas ✨ through better design
+
 # Hi there 👋 I'm Barry
 
-> Enabling the world’s learners to advance bright ideas ✨ through better design
+[Let's Connect](https://linktr.ee/barryprendergast)
 
 ## About Me
 
@@ -17,7 +19,3 @@ My experience includes many years of building and nurturing effective teams, dev
 * Enabling scientific communities, institutions and publishers to better create, discover and share research.
 
 * Learning to code with ChatGPT - Check out 🥁 my repos.
-
-## My links 
-
-[Let's Connect](https://linktr.ee/barryprendergast)
