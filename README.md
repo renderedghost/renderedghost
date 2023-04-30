@@ -8,10 +8,10 @@ My research and design process goes far beyond the visual to improve human exper
 
 My experience includes many years of building and nurturing effective teams, developing strategies, operationalising mature collaborative agile practices, and scaling design systems.
 
+👉 **[Let's Connect](https://linktr.ee/barryprendergast)**
+
 ## I’m currently working on
 
-* Enabling scientific communities, institutions and publishers to better create, discover and share research at [Morressier](https://www.morressier.com/).
+* Enabling scientific communities, institutions and publishers to better create, discover and share research at **[Morressier](https://www.morressier.com/)**.
 
-* Learning to code with ChatGPT - Check out 🥁 [my repos](https://github.com/renderedghost?tab=repositories).
-
-👉 **[Let's Connect](https://linktr.ee/barryprendergast)**
+* Learning to code with ChatGPT - Check out **[my repos](https://github.com/renderedghost?tab=repositories)**.
