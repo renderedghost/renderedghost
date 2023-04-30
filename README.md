@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Barry
 
-[Let's Connect](https://linktr.ee/barryprendergast)
+👉 **[Let's Connect](https://linktr.ee/barryprendergast)**
 
 ## About Me
 
