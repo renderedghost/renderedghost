@@ -13,5 +13,3 @@ My experience includes many years of building and nurturing effective teams, dev
 ## I’m currently working on
 
 * Enabling scientific communities, institutions and publishers to better create, discover and share research at **[Morressier](https://www.morressier.com/)**.
-
-* Learning to code with ChatGPT - Check out **[my repos](https://github.com/renderedghost?tab=repositories)**.
