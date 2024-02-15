@@ -20,4 +20,4 @@ My experience includes many years of building and nurturing effective teams, dev
 
 ## I’m currently working on
 
-* Enabling scientific communities, institutions and publishers to better create, discover and share research at **[Morressier](https://www.morressier.com/)**.
+Enabling scientific communities, institutions and publishers to better create, discover and share research at **[Morressier](https://www.morressier.com/)**.
