@@ -1,6 +1,9 @@
-# Hi there 👋 I'm Barry
+# Hey there 👋 I'm Barry
 
 👉 [Let's Connect!](https://links.renderg.host/)
+
+> [!IMPORTANT]  
+> I'm not currently looking for new projects.
 
 ## About Me
 
@@ -12,7 +15,4 @@ I'm happiest collaborating with smart, creative and thoughtful people to find su
 
 Building the next-generation publishing platform for the entire Scholarly industry at **[Morressier](https://www.morressier.com/)**.
 
-> [!IMPORTANT]  
-> I'm not currently looking for new projects.
 
-👉 [Let's Connect!](https://links.renderg.host/)
