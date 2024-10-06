@@ -15,4 +15,4 @@ I'm happiest collaborating with smart, creative and thoughtful people to find su
 
 Building the next-generation publishing platform for the entire Scholarly industry at **[Morressier](https://www.morressier.com/)**.
 
-
+[<kbd> <br> Say Hello <br> </kbd>](https://links.renderg.host/)
